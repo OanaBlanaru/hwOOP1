@@ -7,6 +7,8 @@ namespace homeworkOOP1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! This is my git repo");
+            Console.WriteLine("Hello World! This is my branch");
+
         }
     }
 }
